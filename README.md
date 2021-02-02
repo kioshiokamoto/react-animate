@@ -2,7 +2,7 @@
 
 Realizado con ReactJs, Styled-components y framer-motion.
 
-![Demo](preview.jpg)
+![Demo](./preview.JPG)
 
 Para instalar aplicacion ejecutar:
 
